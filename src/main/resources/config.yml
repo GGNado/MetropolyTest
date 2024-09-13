@@ -1,0 +1,9 @@
+#V 1.0
+#World Config
+creeperGrief: false
+zombiePiglinDropGold: false
+
+#Town Config
+#In gold
+townPrice: 50
+claimPrice: 5

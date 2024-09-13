@@ -1,0 +1,12 @@
+Citta:
+  atene:
+    nome: Atene
+    sindaco: ce3c550b-e35d-4592-abaa-c891e89e1fd2
+    cittadini:
+      - ce3c550b-e35d-4592-abaa-c891e89e1fd2
+      - 2adec0d3-e6ba-4fce-9669-291e79f19b56
+      - f04adf98-171b-44f2-bb39-e52eb00b38a6
+    banca: 100
+    numeroClaim: 1
+
+
